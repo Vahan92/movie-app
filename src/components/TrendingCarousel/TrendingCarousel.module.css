@@ -1,0 +1,50 @@
+.carouselSection {
+  padding: 1rem 0;
+}
+
+.sectionTitle {
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.embla {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.viewport {
+  overflow: hidden;
+  width: 100%;
+  cursor: grab;
+}
+
+.viewport:active {
+  cursor: grabbing;
+}
+
+.movieImage{
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  display: flex;
+  gap: 1rem;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.slide {
+  flex: 0 0 auto;
+  width: 11vw;
+}
+
+.prev {
+  margin-right: 0.5rem;
+}
+
+.next {
+  margin-left: 0.5rem;
+}
