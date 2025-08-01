@@ -1,31 +1,25 @@
-TV Streaming Application
+# TV Streaming Application
+
 A modern streaming platform interface that provides an immersive browsing experience for movies and TV shows.
-Features
 
-Interactive Sidebar Menu - Navigate through different sections with smooth animations
-Featured Content Display - Showcases the latest featured movie with detailed information
-Trending Carousel - Browse through trending content with smooth scrolling
-Auto-playing Previews - Video previews automatically play when selecting content
-Personalized Experience - Tracks your viewing history to show recently watched content first
+## Features
 
-Getting Started
-Prerequisites
+- **Interactive Sidebar Menu** - Navigate through different sections with smooth animations
+- **Featured Content Display** - Showcases the latest featured movie with detailed information
+- **Trending Carousel** - Browse through trending content with smooth scrolling
+- **Auto-playing Previews** - Video previews automatically play when selecting content
+- **Personalized Experience** - Tracks your viewing history to show recently watched content first
 
-Node.js (version 24 or higher)
-npm (comes with Node.js)
+## Getting Started
 
-Installation
+### Prerequisites
 
-Clone or download this project to your computer
-Open a terminal in the project folder
-Install dependencies:
-npm install
+- Node.js (version 24 or higher)
+- npm (comes with Node.js)
 
-Running the Application
+### Installation
 
-Start the development server:
-npm run dev
-The application will open automatically in your browser at http://localhost:3000
-Building for Production
-Create an optimized production build:
-npm run build
+1. Clone or download this project to your computer
+2. Open a terminal in the project folder
+3. Install dependencies: ``` npm install ```
+4. Start the development server: ``` npm run dev ```
